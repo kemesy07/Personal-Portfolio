@@ -1,2 +1,2 @@
 # MY PORTFOLIO 👩‍💻
-by Keidy Mercado
+Keidy Mercado
