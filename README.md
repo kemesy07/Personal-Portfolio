@@ -2,5 +2,6 @@
 Keidy Mercado
 
 ### Stack Tecnologico
-HTML
-CSS
+- HTML
+- CSS
+
