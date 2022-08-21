@@ -1,7 +1,7 @@
 ## PORTFOLIO  
 Keidy Mercado
 
-## Stack Tecnologico
+### Stack Tecnologico
 
 
 
