@@ -1,3 +1,7 @@
 ## PORTFOLIO
 Keidy Mercado
 
+## STACK TECNOLOGICO
+HTML
+CSS
+
