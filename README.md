@@ -1,2 +1,2 @@
-## PORTFOLIO - Projects
+## PORTFOLIO
 Keidy Mercado
